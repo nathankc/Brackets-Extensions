@@ -1,0 +1,12 @@
+{
+    "name": "close-all-files",
+    "title": "Close All Open Files",
+    "description": "Closes all open files (except primary focus) when Brackets app is closed. This allows Brackets to open with a mostly fresh, clean slate. Currently, this extension will still leave the last open file visible when Brackets is re-opened. My first extension - take it as you will.",
+    "homepage": "",
+    "version": "0.0.1",
+    "author": "Nathan K. Campbell <nathankc@gmail.com> (https://github.com/nathankc)",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=1.8.0"
+    }
+}
